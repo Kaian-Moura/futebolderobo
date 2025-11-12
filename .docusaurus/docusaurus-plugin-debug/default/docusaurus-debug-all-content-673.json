@@ -1,0 +1,99 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/futebolderobo/",
+          "tagsPath": "/futebolderobo/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/kaiansantosmoura/Documentos/artrobot/futebolderobo/sidebars.js",
+          "contentPath": "/home/kaiansantosmoura/Documentos/artrobot/futebolderobo/docs",
+          "contentPathLocalized": "/home/kaiansantosmoura/Documentos/artrobot/futebolderobo/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Bem-vindo",
+              "description": "Bem-vindo à documentação do projeto Futebol de Robô.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/futebolderobo/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "index",
+                "title": "Bem-vindo"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Documentação Completa - futebol de robô",
+                "permalink": "/futebolderobo/intro"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Documentação Completa - futebol de robô",
+              "description": "📋 Índice",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/futebolderobo/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intro",
+                "title": "Documentação Completa - futebol de robô"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bem-vindo",
+                "permalink": "/futebolderobo/"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "doc",
+                "id": "intro"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/futebolderobo/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

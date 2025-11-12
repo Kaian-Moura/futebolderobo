@@ -1,0 +1,9 @@
+/* Minimal custom CSS for Docusaurus site */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial;
+}
+
+.navbar__title {
+  font-weight: 600;
+}

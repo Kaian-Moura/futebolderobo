@@ -1,0 +1,40 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Bem-vindo",
+        "href": "/futebolderobo/",
+        "docId": "index"
+      },
+      {
+        "type": "link",
+        "label": "Documentação Completa - futebol de robô",
+        "href": "/futebolderobo/intro",
+        "docId": "intro"
+      }
+    ]
+  },
+  "docs": {
+    "index": {
+      "id": "index",
+      "title": "Bem-vindo",
+      "description": "Bem-vindo à documentação do projeto Futebol de Robô.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Documentação Completa - futebol de robô",
+      "description": "📋 Índice",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

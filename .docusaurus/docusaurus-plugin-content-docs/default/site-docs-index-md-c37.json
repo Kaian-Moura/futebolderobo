@@ -1,0 +1,22 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "Bem-vindo",
+  "description": "Bem-vindo à documentação do projeto Futebol de Robô.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/futebolderobo/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "index",
+    "title": "Bem-vindo"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Documentação Completa - futebol de robô",
+    "permalink": "/futebolderobo/intro"
+  }
+}
