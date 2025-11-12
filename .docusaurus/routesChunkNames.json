@@ -1,60 +1,17 @@
 {
-  "/futebolderobo/__docusaurus/debug-cb6": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-76-5c3"
-    }
-  },
-  "/futebolderobo/__docusaurus/debug/config-01b": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-76-5c3"
-    }
-  },
-  "/futebolderobo/__docusaurus/debug/content-2e9": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-76-5c3"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/futebolderobo/__docusaurus/debug/globalData-892": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-76-5c3"
-    }
-  },
-  "/futebolderobo/__docusaurus/debug/metadata-57f": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-76-5c3"
-    }
-  },
-  "/futebolderobo/__docusaurus/debug/registry-f81": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-76-5c3"
-    }
-  },
-  "/futebolderobo/__docusaurus/debug/routes-b3b": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugd-76-5c3"
-    }
-  },
   "/futebolderobo/-ac0": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---b-0-c-e40"
+      "plugin": "b0cbbb36"
     },
-    "versionMetadata": "versionMetadata---935-fcf"
+    "versionMetadata": "935f2afb"
   },
   "/futebolderobo/-0c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---c-37-d02"
+    "__comp": "17896441",
+    "content": "c377a04b"
   },
   "/futebolderobo/intro-ed9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intro-0-e-3-7b8"
+    "__comp": "17896441",
+    "content": "0e384e19"
   }
 }
